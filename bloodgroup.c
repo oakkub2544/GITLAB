@@ -5,7 +5,9 @@ void main()
   int i;
   do
   {
-    printf("What is your B Name? ");
+<<<<<<< HEAD
+        printf("What is your A Name? ");
+>>>>>>> ba561a4a391d516b18a3fbd56e17e08bc2474154
     scanf("%s", Name);
     do
     {
